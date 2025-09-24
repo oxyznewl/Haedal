@@ -1,0 +1,38 @@
+#header {
+    background-color: greenyellow;
+    color: white; 
+    width: 1200px;
+    height: 60px;
+}
+#nav {
+    background-color: rgb(241, 175, 187);
+    width: 200px;
+    height: 900px;
+    float: left;
+}
+#main {
+    background-color:rgb(255, 255, 255);
+    color: none;
+    width: 1000px;
+    height: 900px;
+    float: left;
+}
+#footer {
+    background-color:navy;
+    color:white;
+    width: 1200px;
+    height: 160px;
+    clear: both;
+}
+
+.font1 {
+    font-size:100%;
+    color:rgb(8, 145, 69);
+    font-weight:bold;
+}
+
+.font2 {
+    font-size:100%;
+    color:rgb(255, 128, 0);
+    font-weight:bold;
+}
